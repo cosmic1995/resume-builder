@@ -164,10 +164,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## 📧 Support
-
-For questions or issues, please open a GitHub issue.
-
 ---
 
 Built with ❤️ to help you land your dream job.
